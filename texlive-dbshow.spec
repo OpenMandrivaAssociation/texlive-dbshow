@@ -1,6 +1,6 @@
 Name:		texlive-dbshow
 Version:	61634
-Release:	1
+Release:	2
 Summary:	A package to store and display data with custom filters, orders, and styles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dbshow
