@@ -3,7 +3,7 @@ Version:	61634
 Release:	2
 Summary:	A package to store and display data with custom filters, orders, and styles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dbshow
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/dbshow
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dbshow.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/dbshow.doc.r%{version}.tar.xz
